@@ -1,5 +1,7 @@
 # House-Price-Prediction
-I set out to use some regression models to predict housing prices in Iowa. I will be highlighting how I went about it, what worked for me, what didn’t and what I learnt in that process.
+I set out to use some regression models to predict housing prices in Iowa. I will be highlighting how I went about it, what worked for me, what didn’t and what I learnt in that process. Then we will find which model works the best.
+
+![1_us8OB_BbS2BCHYQY9Qlv0w](https://user-images.githubusercontent.com/17608830/112728184-13f45c00-8f4c-11eb-8dda-d5beafb6c25f.jpeg)
 
 ### First what is the problem?
 The problem is to build a model that will predict house prices with a high degree of predictive accuracy given the available data. More about it [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).\
